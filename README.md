@@ -78,8 +78,6 @@ If you're having issues with the mod:
 
 Mod Created by [DohmBoy64]
 
-Based on the Kingdoms and Castles modding template and Discord webhook integration.
-
 ## License
 
 This mod is provided as-is. Feel free to use and modify for personal use. 
