@@ -14,7 +14,7 @@ This mod allows you to track your villagers in Kingdoms and Castles by sending u
 ## Installation
 
 1. Download the mod files and place them in your Kingdoms and Castles mods folder:
-   - `<GameDirectory>\KingdomsAndCastles_Data\mods\UnityExplorerKNC\`
+   - `<GameDirectory>\KingdomsAndCastles_Data\mods\`
 
 2. Edit the `Core.cs` file to set your Discord webhook URL (see Configuration section below).
 
@@ -76,7 +76,7 @@ If you're having issues with the mod:
 
 ## Credits
 
-Created by [Your Name]
+Mod Created by [DohmBoy64]
 
 Based on the Kingdoms and Castles modding template and Discord webhook integration.
 
