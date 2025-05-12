@@ -1,0 +1,7 @@
+{
+    "uniqueid": "villagerstatusreport-dis",
+    "name": "Villager Status Report",
+    "description": "Keep tabs on your kingdom's population directly in Discord! This mod creates a live connection between your Kingdoms and Castles game and Discord, sending updates about your villagers.",
+    "author": "DohmBoy64Bit",
+    "version": "1.0.0"
+} 
